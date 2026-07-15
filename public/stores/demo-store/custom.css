@@ -1,0 +1,4 @@
+/* CSS exclusivo de Tienda Demo. No debe vivir en core ni en un tema compartido. */
+:root {
+  --store-color-primary: #1d4ed8;
+}
